@@ -20,6 +20,24 @@ Based in Abuja, Nigeria — passionate about creating **beautiful, responsive, a
 
 ---
 
+### 🌍 **Open Source Contributions**
+
+<p>
+💡 I actively contribute to the open-source ecosystem and have participated in initiatives like:
+</p>
+
+- 🎉 **Hacktoberfest** – Contributed to multiple repositories, helping improve documentation, fix bugs, and add new features.  
+- 🌱 **Community-driven projects** – Passionate about sharing knowledge and giving back to the tech community.
+
+---
+
+### 🤝 **Mentorship**
+- 👩🏽‍💻 **Mentor to aspiring frontend developers** – guiding beginners through **HTML, CSS, JavaScript, and React fundamentals**.  
+- 🏗 Help mentees build **real-world projects**, understand industry workflows, and grow confidence in their coding skills.  
+- 🌟 Advocate for **women in tech** and **early-career developers** breaking into the industry.
+
+---
+
 ### 🛠 **Tech Stack**
 
 <p>
